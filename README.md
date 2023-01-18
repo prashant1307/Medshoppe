@@ -20,8 +20,8 @@
 
 ## Live Demo 
 
--[Netlify link available here](https://medshoppe.netlify.app/)
--[Admin deployed link](https://medshoppe-admin.netlify.app/)
+##-[Netlify link available here](https://medshoppe.netlify.app/)
+```-[Admin deployed link](https://medshoppe-admin.netlify.app/)```
 
 ## Screenshots
    ## Home Page
